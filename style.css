@@ -51,4 +51,14 @@ img {
 
 #shadow {
   box-shadow: 10px 10px 30px orangered;
+} 
+button {
+  border: 0;
+  padding: 10px 30px;
+  background-image:linear-gradient(to right, yellow, orange);
+  font-size: larger;
+  font-weight: bold;
+  border-radius: 20px;
+  color: grey;
+  box-shadow: 5px 5px 8px;
 }
