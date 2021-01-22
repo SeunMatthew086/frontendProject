@@ -62,3 +62,7 @@ button {
   color: grey;
   box-shadow: 5px 5px 8px;
 }
+
+button:hover {
+  background-image:linear-gradient(to right, rgb(78, 78, 9), rgb(161, 110, 13)) ;
+}
