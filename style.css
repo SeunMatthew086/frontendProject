@@ -47,12 +47,18 @@ nav{
 }
 
 .nav-link {
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+}
 
+li {
+  margin: 15px 5px;
 }
 
 img {
   height: 200px;
-  border-radius: 200px;
+  border-radius: 200px; 
 }
 
 .flex-layout {
