@@ -125,3 +125,15 @@ a {
 a:hover {
   color: green;
 }
+
+.about-me {
+  width: 800px;
+  height: 400px;
+  background-color: blanchedalmond;
+}
+
+.second {
+  width: 800px;
+  height: 400px;
+  background-color:crimson;
+}
