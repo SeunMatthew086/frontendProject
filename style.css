@@ -150,6 +150,17 @@ a:hover {
 
 }
 
+form{
+  margin: 0 0 50px 0;
+}
+
 .input-section {
-  
+  margin: 20px 0;
+  display: flex;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  margin: 0 5px 0 0;
 }
