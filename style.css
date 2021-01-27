@@ -101,6 +101,19 @@ img {
 #shadow {
   box-shadow: 10px 10px 30px orangered;
 } 
+
+
+@media only screen and (max-width: 700px){
+  .hero-info {
+    max-width: 700px;
+  }
+
+  .hero-picture{
+    visibility: hidden;
+    height: 0px;
+  }
+}
+
 button {
   border: 0;
   padding: 10px 30px;
